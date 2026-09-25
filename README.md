@@ -115,7 +115,20 @@ Strategies & Recommendations
 RCA & SWOT Analysis
 ```
 
-## 🛠️ Tools
+## 💼 Business Value
+
+The dashboard helps Learning & Development teams:
+
+- Measure training effectiveness
+- Track employee performance improvement
+- Understand training investment and ROI
+- Compare programs and delivery modes
+- Identify departmental training gaps
+- Monitor employee engagement
+- Support data-driven training decisions
+
+  
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - DAX
