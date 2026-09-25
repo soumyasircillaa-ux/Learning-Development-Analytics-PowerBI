@@ -113,3 +113,25 @@ Business Insights
 Strategies & Recommendations
        ↓
 RCA & SWOT Analysis
+
+## 🛠️ Tools
+
+- Microsoft Power BI
+- DAX
+- Data Analysis
+- Data Visualization
+- Business Intelligence
+
+## 📂 Project Files
+
+- `LearningDevelopment_Dataset.csv` – Dataset used for analysis
+- `Learninganddevelopment_dashboard.pbit` – Power BI dashboard template
+
+## 🔍 Skills Demonstrated
+
+Power BI • DAX • KPI Development • Data Visualization • 
+Business Analysis • ROI Analysis • RCA • SWOT Analysis
+
+## 👤 Author
+
+**Soumya Siricilla**
