@@ -47,19 +47,4 @@ and SWOT analysis.
 - Average Performance Gain
 - Average ROI
 
-## Project Files
 
-- `LearningDevelopment_Dataset.csv` – Dataset used for analysis
-- `Learninganddevelopment_dashboard.pbit` – Power BI dashboard template
-- `Screenshots/` – Dashboard page previews
-
-## Dashboard Preview
-
-### Overview
-![Page 1](Screenshots/Page1_Overview.png)
-
-### Methods & Strategies
-![Page 2](Screenshots/Page2_Methods_Strategies.png)
-
-### Conclusions
-![Page 3](Screenshots/Page3_Conclusions.png)
