@@ -113,6 +113,7 @@ Business Insights
 Strategies & Recommendations
        ↓
 RCA & SWOT Analysis
+```
 
 ## 🛠️ Tools
 
